@@ -95,3 +95,6 @@ MIT License - see LICENSE file for details.
 2. Guerry, A.-M. (1833). *Essay on the Moral Statistics of France*
 3. Cleveland, W. S. (1979). *Robust Locally Weighted Regression*
 4. Fox, J. (2016). *Applied Regression Analysis and Generalized Linear Models*
+
+# Note
+This notebook is designed for educational and research purposes. Real-world applications may require additional considerations and validation.
