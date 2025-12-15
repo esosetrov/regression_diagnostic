@@ -22,8 +22,8 @@ Regression diagnostics is essential for validating model assumptions and ensurin
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/regression-diagnostics.git
-cd regression-diagnostics
+git clone https://github.com/esosetrov/regression_diagnostic
+cd regression_diagnostic
 
 # Install dependencies
 pip install numpy pandas matplotlib seaborn statsmodels scipy
