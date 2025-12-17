@@ -35,11 +35,6 @@ import pandas as pd
 import statsmodels.formula.api as smf
 import statsmodels.stats.api as sms
 
-# Load data and fit model
-url = "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Guerry.csv"
-dat = pd.read_csv(url)
-model = smf.ols("Lottery ~ Literacy + np.log(Pop1831)", data=dat).fit()
-
 # Run comprehensive diagnostics
 from regression_diagnostics import comprehensive_diagnostics
 results = comprehensive_diagnostics(model, dat)
@@ -88,7 +83,7 @@ regression-diagnostics/
 Contributions welcome! Please feel free to submit issues and pull requests.
 
 ## License
-MIT License - see LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## References
 1. StatsModels Documentation: https://www.statsmodels.org
