@@ -1,6 +1,5 @@
 # Regression Diagnostics
-
-Comprehensive implementation of regression diagnostic tests using statsmodels for model validation and assumption checking in real-world data analysis.
+Regression diagnostic tests using statsmodels for model validation and assumption checking in real-world data analysis.
 
 ## Overview
 Regression diagnostics is essential for validating model assumptions and ensuring reliable statistical inference. This project demonstrates practical application of diagnostic tests including:
