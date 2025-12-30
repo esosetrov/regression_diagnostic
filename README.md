@@ -70,13 +70,13 @@ regression-diagnostics/
 └── .gitignore                                               # Version control settings
 
 ## Dependencies
-- Python 3.7+
-- matplotlib
-- numpy
-- pandas
-- scipy
-- seaborn
-- statsmodels
+- Python 3.7+;
+- matplotlib;
+- numpy;
+- pandas;
+- scipy;
+- seaborn;
+- statsmodels.
 
 ## Contributing
 Contributions welcome! Please feel free to submit issues and pull requests.
