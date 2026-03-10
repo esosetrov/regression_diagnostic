@@ -41,18 +41,18 @@ results = comprehensive_diagnostics(model, dat)
 
 ## Key Results
 The analysis reveals:
-- **Model performance**: R² = 0.349, RMSE = 20.04
-- **Normality**: All tests confirm normal residuals (p > 0.05)
-- **Homoscedasticity**: Constant variance assumption satisfied
-- **Linearity**: No significant specification errors detected
-- **Influence**: 4 influential observations identified
+- **Model performance**: R² = 0.349, RMSE = 20.04.
+- **Normality**: All tests confirm normal residuals (p > 0.05).
+- **Homoscedasticity**: Constant variance assumption satisfied.
+- **Linearity**: No significant specification errors detected.
+- **Influence**: 4 influential observations identified.
 
 ## Diagnostic Tests Implemented
-- **Residual Analysis**: Q-Q plots, residual distributions, scale-location plots
-- **Influence Metrics**: Cook's distance, DFBETAS, leverage statistics
-- **Multicollinearity**: Variance Inflation Factors (VIF), condition numbers
-- **Robustness Checks**: Huber-White standard errors comparison
-- **Model Comparison**: Multiple specification testing
+- **Residual Analysis**: Q-Q plots, residual distributions, scale-location plots.
+- **Influence Metrics**: Cook's distance, DFBETAS, leverage statistics.
+- **Multicollinearity**: Variance Inflation Factors (VIF), condition numbers.
+- **Robustness Checks**: Huber-White standard errors comparison.
+- **Model Comparison**: Multiple specification testing.
 
 ## Applications
 - Academic research and statistical education
